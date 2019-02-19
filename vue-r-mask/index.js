@@ -1,4 +1,4 @@
-import caret from  './caretPos.js';
+import {caret} from  './caretPos.js';
 
 export default {
 	bind (el, val, VNode){
